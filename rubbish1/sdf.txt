@@ -1,3 +1,2 @@
 Hello from rubbish1 
 This is my first edit using VSCode.
-Testing Git undo after commit.
